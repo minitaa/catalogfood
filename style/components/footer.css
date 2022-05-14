@@ -1,0 +1,32 @@
+.footer{
+	background-color: #000;
+	width: 100%;
+	color: #fff;
+	height: 300px;
+	position: relative;
+	z-index: 30;
+}
+
+.footer-inner{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.footer-f a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 14px;
+}
+
+.social i{
+	color: #fff;
+	font-size: 14px;
+}
+
+.social p{
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Nunito', sans-serif;
+}

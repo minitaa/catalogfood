@@ -1,0 +1,32 @@
+.blog-crump	{
+	padding-top: 60px;
+	border-bottom: 1px dotted #BABABA;
+}
+
+.blog-breadcrump{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.breadcrump{
+	display: flex;
+	align-items: center;
+	font-family: 'Nunito', sans-serif;
+}
+
+.breadcrump a{
+	margin: 0 5px;
+	color: #000;
+	opacity: 1;
+	font-family: 'Nunito', sans-serif;
+}
+
+.breadcrump a:hover{
+	color: rgb(216, 175, 89);
+}
+
+.margin-top{
+	padding-top: 70px;
+}

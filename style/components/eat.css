@@ -1,0 +1,51 @@
+.eat{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	font-family: 'Nunito', sans-serif;
+}
+
+.eat-img{
+	width: 50%;
+	height: 100vh;
+}
+
+.eat-img img{
+	width: 100%;
+	height: 100%;
+}
+
+.eat-text2{
+	width: 45%;
+	height: 100vh;
+}
+
+.eat-text2 h3{
+	font-size: 90px;
+}
+
+.eat-text2 p{
+	font-size: 30px;
+}
+
+.eat-text{
+	width: 50%;
+	height: 100vh;
+}
+
+.eat-text h3{
+	font-size: 90px;
+	padding-left: 40px;
+}
+
+.eat-text p{
+	font-size: 30px;
+	padding-left: 40px;
+}
+
+.eat2{
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+	font-family: 'Nunito', sans-serif;
+}

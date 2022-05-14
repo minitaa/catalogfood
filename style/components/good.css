@@ -1,0 +1,76 @@
+.good-sec{
+	background-color: #f8f8f8;
+	padding-bottom: 40px;
+	padding-top: 40px;
+	position: 	relative;	
+}
+
+.good-blocks{
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+    flex-wrap: wrap;
+    box-sizing: border-box; 
+}
+
+.good-block{
+	width: 300px;
+	height: 400px;
+	margin-bottom: 20px;	
+	margin-right: 10px;
+	display: flex;
+	flex-direction: column;
+	font-family: 'Nunito', sans-serif;
+}
+
+.good-icon{
+	width: 300px;
+	height: 100px;
+}
+
+.good-icon i{
+	padding: 18px 110px;
+}
+
+.good-text h2{
+	font-size: 1.6875rem;
+}
+
+.good-text p{
+	font-size: 1.1875rem; 
+}
+
+.good-title{
+	font-size: 3.25rem;
+	font-family: 'Nunito', sans-serif;
+}
+
+.good-btn{
+	width: 30%;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	position: relative;
+}
+
+.good-btn button{
+	width: 420px;
+	padding: 10px 10px;
+	background-color: transparent;
+	font-family: 'Nunito', sans-serif;
+	font-size: 25px;
+	color: #000;
+	border: 2px solid rgb(216, 175, 89);
+	cursor: pointer;
+	border-radius: 20px;
+	outline: none;
+}
+
+.good-btn button:hover {
+	color: #008000;
+}
+
+.good2{
+	padding-top: 0;
+}

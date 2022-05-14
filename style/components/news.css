@@ -1,0 +1,452 @@
+.one-for-site{	
+	display: flex;	
+	justify-content: space-between;
+}
+
+.site-one{
+	width: 70%;
+	font-family: 'Nunito', sans-serif;
+}
+
+.site-one{
+	width: 70%;
+	font-family: 'Nunito', sans-serif;
+}
+
+.site-two{
+	width: 27%;
+	margin-left: 25px;
+	font-family: 'Nunito', sans-serif;
+}
+
+.site-tree{
+	width: 24%;
+	margin-left: 25px;
+	font-family: 'Nunito', sans-serif;
+}
+
+.site-four{
+	width: 74%;
+	font-family: 'Nunito', sans-serif;
+}
+
+.site-one img{
+	width: 600px;
+	height: 600px;
+}
+
+.site-two img{
+	width: 100%;
+}
+
+.site-img{
+	margin: 0 auto;
+}
+
+.god-widjet{
+	width: 100%;
+	background-image: url(../../assets/overlay-2.jpg);
+	position: relative;
+	object-fit: cover;
+	display: flex;
+	flex-direction: column;
+	background-position: center;
+}
+
+.widjet-god-text{
+	margin: 7%;
+	position: relative;
+	z-index: 6;
+}
+
+.god-widjet h3{
+	color: #fff;
+	font-size: 22px;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 700;
+	margin: 5px 0;
+}
+
+.god-widjet h2{
+	color: #fff;
+	font-size: 20px;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 700;
+	margin-top: 27px;
+	margin-bottom: 12px;
+}
+
+.god-widjet a{
+	color: #fff;
+	font-size: 19px;
+	font-family: 'Nunito', sans-serif;
+	opacity: 0.7;
+}
+
+.released-april{
+	margin-top: 0;
+}
+
+.god-widjet p{
+	color: #fff;
+	font-size: 19px;
+	font-family: "Cabin", sans-serif;
+	opacity: 0.7;
+}
+
+.site-one-text{
+	display: flex;
+	flex-direction: column;
+	padding: 40px 0;
+	border-bottom: 1px dotted #BABABA;
+}
+
+.site-two-text{
+	display: flex;
+	flex-direction: column;
+	padding: 40px 0;
+	border-bottom: 1px dotted #BABABA;
+}
+
+.site-three-text{
+	display: flex;
+	flex-direction: column;
+	padding: 40px 0;
+	border-bottom: 1px dotted #BABABA;
+}
+
+.site-four-text{
+	display: flex;
+	flex-direction: column;
+	padding: 40px 0;
+	border-bottom: 1px dotted #BABABA;
+}
+
+.site-five-text{
+	display: flex;
+	flex-direction: column;
+	padding: 40px 0;
+	border-bottom: 1px dotted #BABABA;
+}
+
+.calendar-game{
+	display: flex;
+	align-items: center;
+	color: #8a8a8a;
+}
+
+.calendar-game a{
+	padding-left: 5px;
+	color: #000000;
+}
+
+.calendar-game p{
+	padding: 0 5px;
+	font-size: 15px;
+}
+
+.title-game a{
+	text-decoration: none;
+}
+
+.title-game h3{
+	color: #000000;
+	font-size: 22px;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 700;
+	margin: 0;
+}
+
+.title-game-news h3{
+	color: #000000;
+	font-size: 30px;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 700;
+	margin: 0;
+}
+.title-game :hover h3{
+	color: #008000;
+}
+
+.site-img{
+	padding-bottom: 13px;
+}
+
+.god-overlay {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	z-index: 5;
+	background-color: rgb(0,0,0,0.7);
+}
+
+.PS {
+	border: none;
+	border-radius: 40px;
+	background-color: #2575dc;
+	align-items: center;
+}
+
+.PS a{
+	padding: 3px 4px;
+	display: flex;
+	text-align: center;
+	font-size: 14px;
+	opacity: 1;
+}
+
+.favourites{
+	width: 100%;
+	height: 40px;
+	background-color: transparent;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+}
+
+.favourites i{
+	padding-top: 3px;
+	padding-left: 7px;
+}
+
+.favourites{
+	font-size: 17px;
+	outline: none;
+}
+
+.widjet-god-text a:hover {
+	opacity: 1;
+	text-decoration: underline;
+}
+
+.favourites-block button{
+	opacity: 0.8;
+}
+
+.favourites-block button:hover{
+	opacity: 1;
+}
+
+.gm-name{
+	margin-top: 30px;
+	margin-bottom: 10px;
+	padding: 5px 9px;
+	border-left: 3px solid rgb(216, 175, 89);
+	font-family: 'Nunito', sans-serif;
+}
+
+.gm-name h3{
+	margin: 0; 
+	font-size: 17px;
+}	
+
+.widjet-img{
+	margin: 15px 0;
+}
+
+.w2{
+	font-family: "Cabin", sans-serif;
+	font-weight: 700;
+}	
+
+.w2 h2{
+	font-family: "Cabin", sans-serif;
+	font-weight: 0;
+	font-size: 19px;
+	margin: 7px 0;
+}
+
+.w2 a{
+	color: #000;
+}
+
+.w2 :hover a{
+	color: #2575dc;
+}
+
+.w2 p{
+	opacity: 0.7;
+}
+
+.w-calendar{
+	display: flex;
+	align-items: center;
+	opacity: 0.7;
+}
+
+.w-calendar i{
+	margin-right: 7px;
+}	
+
+.w-calendar p{
+	margin: 0;
+}
+
+.one-post{
+	width: 100%;
+	height: 15%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-bottom: 8px; 
+	padding-top: 12px;
+	border-bottom: 1px dotted #BABABA;
+}
+
+.post-img-img{
+	width: 45%;
+	height: 100px;
+	overflow: hidden;
+}
+
+.post-img-img img{
+	width: 150px;
+	height: 100px;
+	object-fit: cover;
+}
+
+.post-text {
+	margin-top: 5px;
+	width: 55%;
+	padding-left: 12px;
+}
+
+.one-post a{
+	font-size: 20px;
+	color: #000;
+}
+
+.one-post p{
+	font-size: 15px;
+	margin: 0px;
+	padding-bottom: 15px;
+}
+
+.one-post h5{
+	margin: 0px;
+	padding-bottom: 10px;
+	font-family: 'Nunito', sans-serif;
+}
+
+.calendar-post {
+	display: flex;
+	font-family: 'Nunito', sans-serif;
+	color: #8a8a8a;
+}
+
+.calendar-post i{
+	padding-right: 4px;
+}
+
+.one-post :hover a{
+	color: #008000;
+}
+
+.post-btn{
+	width: 100%;
+}
+
+.post-btn button{
+	width: 100%;
+	padding: 7px;
+	margin-top: 10px;
+	font-size: 17px;
+	color: #000;
+	border: 1px solid rgb(216, 175, 89);
+	background-color: transparent;
+	font-family: 'Nunito', sans-serif;
+	outline: none;
+	cursor: pointer;
+}
+
+.post-btn :hover button{
+	color: rgb(216, 175, 89);
+}
+
+.navigation20{
+	display: flex;
+	flex-direction: column;
+	border: 1px solid #ebeaec;
+	border-radius: 15px;
+	margin-top: 25px;
+}
+
+.navigation30 button{
+	width: 100%;
+	background-color: transparent;
+	border-top: 1px solid #ebeaec;
+	border-bottom: 1px solid #ebeaec;
+	border-right: none;
+	border-left: none;
+	font-family: 'Nunito', sans-serif;
+	outline: none;
+	cursor: pointer;
+	font-size: 18px;
+	padding: 5px 0;
+}
+
+.navigation30 :hover button{
+	color: #008000;
+}
+
+.navigation-inner{
+	display: flex;
+	align-items: center;
+	color: #000;
+}
+
+.navigation-inner i{
+	padding-right: 7px;
+	margin: 0;
+}
+
+.navigation-inner p{
+	margin:0;
+	font-size: 19px;
+	opacity: 0.8;
+}
+
+.navigation20 h3{
+	margin: 8px;
+	font-size: 20px;
+	font-family: 'Nunito', sans-serif;
+	padding-top: 5px;
+}
+
+.articles2{
+	margin-top: 4px;
+}
+
+.shop-in-nav p{
+	margin-bottom: 0px;
+	padding-bottom: 3px;
+}
+
+.navigation50{
+	border: none;
+}
+
+.btn-in-nav button{
+	border-radius: 40px;
+	border: none;
+	outline: none;
+	width: 40px;
+	background-color: #2a2b2d;
+	color: #fff;
+}
+
+.btn-in-nav :hover{
+	background-color: #2a2b2d;
+}
+
+.site-one-text-news{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 40px 0;
+}
+
+.site-one-text-news p{
+	font-size: 20px;
+	margin: 0 ;
+}
